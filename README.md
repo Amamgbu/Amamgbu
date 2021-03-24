@@ -1,6 +1,6 @@
 ### Hey human/humanoid 👋
 
-My name is Jesse Amamgbu. I am a data scientist with a mix of Backend Software Engineering and Devops. I believe that data tells us more than just numbers, it helps us understand our users and their desires. With my wealth of knowledge in software engineering and data science, I develop and create data driven solutions which has helped numerous businesses. 
+My name is Jesse Amamgbu. I am a Data scientist and Backend/Devops Engineer. I believe that data tells us more than just numbers, it helps us understand our users and their desires. I help businesses develop and scale data driven solutions.
 
 
 When I'm not coding, I am either binge watching Animes, blogging or sight-seeing with friends. I believe in creating new memories and love exciting challenges.
