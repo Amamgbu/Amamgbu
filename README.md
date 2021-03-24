@@ -3,9 +3,7 @@
 My name is Jesse Amamgbu. I am a Data scientist and Backend/Devops Engineer. I believe that data tells us more than just numbers, it helps us understand our users and their desires. I help businesses develop and scale data driven solutions.
 
 
-When I'm not coding, I am either binge watching Animes, blogging or sight-seeing with friends. I believe in creating new memories and love exciting challenges.
-
-
+When I'm not coding, I am either binge watching Animes, blogging or sight-seeing with friends. 
 
 NB: I am a Python evangelist. No slander of python is welcome. Lol
 <!--
