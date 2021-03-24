@@ -2,8 +2,6 @@
 
 My name is Jesse Amamgbu. I am a data scientist with a mix of Backend Software Engineering and Devops. I believe that data tells us more than just numbers, it helps us understand our users and their desires. With my wealth of knowledge in software engineering and data science, I develop and create data driven solutions which has helped numerous businesses. 
 
-I am also an ardent supporter of Open data and I contribute to open source. I am also an Outreachy alum where I contributed to Wikimedia Foundation and a data science mentor for a local community in Nigeria where I reside.
-
 
 When I'm not coding, I am either binge watching Animes, blogging or sight-seeing with friends. I believe in creating new memories and love exciting challenges.
 
