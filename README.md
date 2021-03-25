@@ -23,13 +23,13 @@ Apart from coding, I also maintain a blog - you can find my articles on my blog 
 
 
 
-
-📫 How to reach me: You can reach me by mail at amamgbujesse@yahoo.com
-
-
+## 📫 How to reach me
+You can reach me by mail at amamgbujesse@yahoo.com
 
 
-⚡ Fun fact: When I'm not coding, I am either binge watching Animes, blogging or sight-seeing with friends. I also mentor younger data scientists in my local community on how to get started in Data Science.
+
+## ⚡ Fun fact 
+When I'm not coding, I am either binge watching Animes, blogging or sight-seeing with friends. I also mentor younger data scientists in my local community on how to get started in Data Science.
 
 <!-- Actual text -->
 
@@ -38,7 +38,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/Amamgbu/Amamgbu/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.2]: https://raw.githubusercontent.com/Amamgbu/Amamgbu/main/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
