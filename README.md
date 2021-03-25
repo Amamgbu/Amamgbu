@@ -33,10 +33,9 @@ When I'm not coding, I am either binge watching Animes, blogging or sight-seeing
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][2].
 
 <!-- Icons -->
-
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/Amamgbu/Amamgbu/main/linkedin-3-16.png (LinkedIn icon without padding)
 
