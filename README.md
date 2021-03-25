@@ -30,6 +30,25 @@ When I'm not coding, I am either binge watching Animes, blogging or sight-seeing
 You can reach me by mail at amamgbujesse@yahoo.com
 
 
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/Amamgbu/Amamgbu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Amamgbu/Amamgbu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amamgbu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jesse's GitHub Stats" />
+</a>
+
+<a href="https://github.com/Amamgbu/inference-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Amamgbu&repo=inference-api&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/Amamgbu/predictionapp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Amamgbu&repo=predictionapp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
+
 <!-- Actual text -->
 
 You can also find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
@@ -42,6 +61,19 @@ You can also find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 [1]: https://twitter.com/JessaytheA
 [2]: https://www.linkedin.com/in/jesse-amamgbu/
+
+
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+
+
+
 
 
 **NB**: I am a Python evangelist. No slander of python is welcome. Lol
