@@ -21,19 +21,18 @@ Apart from coding, I also maintain a blog - you can find my articles on my blog 
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 
+## ⚡ Fun fact 
+When I'm not coding, I am either binge watching Animes, blogging or sight-seeing with friends. I also mentor younger data scientists in my local community on how to get started in Data Science.
+
 
 
 ## 📫 How to reach me
 You can reach me by mail at amamgbujesse@yahoo.com
 
 
-
-## ⚡ Fun fact 
-When I'm not coding, I am either binge watching Animes, blogging or sight-seeing with friends. I also mentor younger data scientists in my local community on how to get started in Data Science.
-
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][2].
+You can also find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
