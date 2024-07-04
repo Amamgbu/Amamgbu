@@ -1,6 +1,6 @@
 ### Hey human/humanoid 👋
 
-My name is Jesse Amamgbu. I am a Data scientist and Backend/Devops Engineer. I believe that data tells us more than just numbers, it helps us understand our users and their desires. I help businesses develop and scale data driven solutions.
+My name is Jesse Amamgbu. I am a devops Engineer with additional experience in Data science. I believe that data tells us more than just numbers, it helps us understand our users and their desires. I help businesses develop and scale data driven solutions.
 
 
 
@@ -29,7 +29,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my blog 
 
 
 ## ⚡ Fun fact 
-When I'm not coding, I am either binge watching Animes, blogging or sight-seeing with friends. I also mentor younger data scientists in my local community on how to get started in Data Science.
+When I'm not coding, I am either binge watching Animes, travelling or sight-seeing with friends. I also mentor newbie data scientists and devops engineers in my local community on how to get started in Data Science.
 
 
 
