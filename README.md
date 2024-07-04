@@ -1,6 +1,6 @@
 ### Hey human/humanoid 👋
 
-My name is Jesse Amamgbu. I am a devops Engineer with additional experience in Data science. I believe that data tells us more than just numbers, it helps us understand our users and their desires. I help businesses develop and scale data driven solutions.
+My name is Jesse Amamgbu. I am a Devops Engineer with additional experience in Data science. I believe that data tells us more than just numbers, it helps us understand our users and their desires. I help businesses develop and scale data driven solutions.
 
 
 
