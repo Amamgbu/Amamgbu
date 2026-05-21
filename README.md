@@ -33,9 +33,6 @@ When I'm not coding, I am either binge watching Animes, travelling or sight-seei
 
 
 
-## 📫 How to reach me
-You can reach me by mail at amamgbujesse@yahoo.com
-
 
 ## &#x1f4c8; GitHub Stats
 
@@ -67,7 +64,7 @@ You can also find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/JessaytheA
-[2]: https://www.linkedin.com/in/jesse-amamgbu/
+[2]:
 
 
 
